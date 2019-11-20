@@ -2983,6 +2983,7 @@ ServerZone.ServerZone_Unknow = 9999
 | YIMErrorcode_PTT_RecognizeFailed = 2030,          | 识别失败|
 | YIMErrorcode_Fail = 10000                         | 语音服务启动失败|
 
-
+### 备注:
+实际Demo点击此处下载->[Youme IM Demo for Cocos2d CPP](http://dl2.youme.im/release/YIM_cocos2d_c++.zip)
 
 
